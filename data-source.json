@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "fname": "manhal",
+    "lname": "khwashki",
+    "age": 29,
+    "city": "kirkuk"
+  },
+  {
+    "id": 3,
+    "fname": "sami",
+    "lname": "massoud",
+    "age": 29,
+    "city": "al-jeza"
+  },
+  { "id": 5, "fname": "allaa", "lname": "rami", "age": 29, "city": "beruit" },
+  { "id": 7, "fname": "jmal", "lname": "adnan", "age": 29, "city": "sena" },
+  { "id": 9, "fname": "bassem", "lname": "yussf", "age": 29, "city": "dubi" },
+  { "id": 10, "fname": "slem", "lname": "jabouri", "age": 29, "city": "oman" }
+]
